@@ -1,0 +1,1 @@
+{"__type__":"cc.Material","_effectAsset":{"__uuid__":"a3zQCfCrBCDZJ4uf2rk5u8"},"_defines":[{"USE_TEXTURE":true,"FLIP_UV":true,"USE_ALPHA_TEST":true}],"_states":[{"blendState":{"targets":[{}]},"depthStencilState":{},"rasterizerState":{}}],"_props":[{"alphaThreshold":0.3,"mainTexture":{"__uuid__":"7e1YJ3c25BLYh2g8IcQRHL@6c48a"}}]}
